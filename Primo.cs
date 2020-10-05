@@ -11,7 +11,7 @@ namespace Primo
     {
         static void Main(string[] args)
         {
-            Ciao mondo
+            Console.WriteLine("Ciao mondo");
         }
     }
 }
